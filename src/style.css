@@ -1,6 +1,5 @@
 /* Importing downloaded font */
 @font-face {
-
   font-family: 'MyFont';
   src: url('./my-font.ttf') format('ttf');
 }
