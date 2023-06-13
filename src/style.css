@@ -6,7 +6,7 @@
 
 .hello {
   color: red;
-  font-family: 'MyFont';
+  font-family: 'MyFont', sans-serif;
   font-size: 5rem;
   font-weight: 600;
   font-style: italic;
